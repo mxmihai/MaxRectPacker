@@ -1,0 +1,11 @@
+{
+  "name": "mxmihai/maxrectpacker",
+  "description": "PHP maximal rectangles packing algorithm with rotation and export",
+  "license": "MIT",
+  "autoload": {
+     "classmap": ["src/"]
+  },
+  "require": {
+    "php": ">=7.2"
+  }
+}
